@@ -42,7 +42,7 @@ Zware motor, maar ligt laag op de grond
 ### Trivia
 Bij achterwielaandrijving zit motor in de lengte
 Bij voorwielaandrijving zit motor in de breedte
---> Komt door de richting van waar je aandrijving wilt. Bij achterwiel naar achteren.
+-> Komt door de richting van waar je aandrijving wilt. Bij achterwiel naar achteren.
 
 ## Aantal cilinders
 ### 1-Cilinder
