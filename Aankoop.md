@@ -15,7 +15,7 @@
 	- Rook uit uitlaat?
 		- Zwart = benzine (is ok indien het niet te lang duurt)
 		- Blauw = olie
-		- Wit = water (kan na een val met een GS)
+		- Wit = water
 
 # Sabotage van motor
 Leerkracht stak een aantal voorkomende mankementen in een motorfiets:
