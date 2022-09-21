@@ -31,7 +31,8 @@ In essentie maar 2 soorten nodig:
 
 ## Vijzen
 ### Zelfborgende moeren
-Moeren met een latex/ijzeren ringetje in. Zorgt voor extra spanning en voorkomt losdraaien
+Moeren met een latex/ijzeren ringetje in. Zorgt voor extra spanning en voorkomt spontaan losdraaien.
+Niet hergebruiken!
 ![[Pasted image 20220921120055.png]]
 
 ### Borgringen
