@@ -1,4 +1,5 @@
 # Essentiele tools
+Aan te raden winkel: https://www.hbm-machines.com/nl/
 ## Ratelsleutels
 Niet te duur kopen voor motorfietsen
 Merken geven doorgaans geen garantie op ratelmechanisme
@@ -11,6 +12,7 @@ Knipex goed merk
 Mechanische verslijten omwille van ingebouwde veer
 Jaarlijkse ijking nodig
 Digitale momentmeters zijn slijtvaster en aan te raden
+![[Pasted image 20220921120728.png]]
 
 ## Spuitbussen
 - WD-40
