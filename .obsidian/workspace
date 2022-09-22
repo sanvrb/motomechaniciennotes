@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Tools.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -132,9 +132,9 @@
   "lastOpenFiles": [
     "Veiligheid.md",
     "Aankoop.md",
+    "README.md",
     "Tools.md",
     "De Motorfiets.md",
-    "Pasted image 20220921120029.png",
-    "README.md"
+    "Pasted image 20220921120029.png"
   ]
 }
