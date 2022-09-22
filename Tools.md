@@ -2,12 +2,12 @@
 Aan te raden winkel: https://www.hbm-machines.com/nl/
 
 ## Ratelsleutels
-Niet te duur kopen voor motorfietsen
+Niet te duur kopen voor motorfietsen.
 Merken geven doorgaans geen garantie op ratelmechanisme.
 Ratelsleutels niet gebruiken om vast of los te zetten.
 
 ## Tangen
-Knipex goed merk
+Knipex goed merk!
 
 ## Momentsleutel
 Mechanische verslijten omwille van ingebouwde veer
