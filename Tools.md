@@ -16,19 +16,51 @@ Digitale momentmeters zijn slijtvaster en aan te raden
 ![[Pasted image 20220921120728.png]]
 
 ## Schroevendraaiers
-Meest gebruikte is PH2 (philips head / kruis)
-Japanse motos durven JIS head gebruiken
-Merk suggestie: Kraftwerk
+- PH2
+	-  Philips Head / Kruis
+	- Meest gebruikte schroevendraaier
+- JIS
+	- Voornamelijk bij Japanse motoren
+
+![[Pasted image 20220922080005.png]]
+
+Merk suggestie schroevendraaiers: Kraftwerk
 
 ## Doppen en steek/ring sleutels
-12 zijdige zijn kleinere buitenmaat (handig op motos) maar zwakker
-6 zijdige zijn sterker maar kunnen moeilijker gebruikt worden op kleinere plekken
-Steek sleutels zijn voor loodgieters. Steek ring is ok, maar ring ring mag geld kosten.
-1/4 en 1/2 inch zijn de standaard maten. 1/4 is geschikt voor meeste bouten op moto. 1/2 voor de zwaardere zaken (achteras). Beperkt budget, een 3/8 inch kopen wat een mooie tussenmaat is.
+### Steeksleutel
+Steeksleutels zijn voor loodgieters.
+![[Pasted image 20220922080336.png]]
+
+### Ringsleutel
+Ideale sleutel is Ring ringsleutel. Steek ring is ook ok.
+![[Pasted image 20220922080539.png]]
+#### Kartels
+- 12
+	- Kleinere buitenmaat, handig voor motos
+	- Zwakker
+- 6
+	- Moeilijker gebruik op kleine plaatsen
+	- Kan meer kracht op gezet worden
+
+#### Maten
+- 1/4"
+	- Geschikt voor meeste bouten op motor
+- 1/2"
+	- Zwaarder werk op motor (achteras)
+- 3/8"
+	- Tussenmaat, all-rounder
+	- Geschikt bij beperkt budget of plaats
+
 
 ## Bougie sleutel
-Rubber seal kan blijven steken in motor, beter om een met magneet te nemen
-Standaard maten zijn 20.8, 18, 16, 14. Hangt van de moto af welke nodig zijn.
+Standaard maten:
+- 20.8
+- 18
+- 16
+- 14
+
+**Tip:** Neem sleutel met ingebouwde magneet. Rubber seal van goedkopere sleutels komen vaak los en belanden in motorblok.
+![[Pasted image 20220922080803.png]]
 
 ## Inbus / torx
 Inbussen in sleutel (met of zonder handvat) zijn niet ideaal. Beter investeren in bits en de ratel gebruiken.
@@ -40,6 +72,10 @@ Inbussen in sleutel (met of zonder handvat) zijn niet ideaal. Beter investeren i
 	- Voor het reinigen van rubber etc
 - Brake cleaner
 	- Reinigen van remschijven
+
+## Citroenzuur
+Erg goed om verroeste onderdelen opnieuw roestvrij te maken.
+**Opgelet**: mag niet in de riolering terechtkomen. Eerst neutraliseren met natriumcarbonaat.
 
 ## Vet
 In essentie maar 2 soorten nodig:
