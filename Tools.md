@@ -75,7 +75,9 @@ Inbussen in sleutel (met of zonder handvat) zijn niet ideaal. Beter investeren i
 
 ## Citroenzuur
 Erg goed om verroeste onderdelen opnieuw roestvrij te maken.
+
 **Opgelet**: mag niet in de riolering terechtkomen. Eerst neutraliseren met natriumcarbonaat.
+Zal bruisen, dus voorzichtig toevoegen. 
 
 ## Vet
 In essentie maar 2 soorten nodig:
@@ -97,10 +99,15 @@ Rondelleke met gaatje in.
 
 ## Bouten
 Standaard maten
-Binnen maat | Buiten maat (sleutel)
-M6 | 10
-M8 | 12 (japans) of 13
-M10 | 14 (japans) of 17
-M12 | 19
 
-2 varianten van draad, normale en fijn. Fijn gaat per omwenteling minder lateraal bewegen in de schroefdraad. 
+| Binnen maat Bout | Buiten maat (sleutel) | 
+| ---------------- | --------------------- |
+| M6               | 10                    |
+| M8               | 13 / 12 (japans)      |
+| M10              | 17 / 14 (japans)      |
+| M12              | 19                    |
+
+Varianten schroefdraad:
+- Fijn
+	- Gaat per omwenteling minder lateraal bewegen
+- Normaal
