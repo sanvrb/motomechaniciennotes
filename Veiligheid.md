@@ -43,7 +43,8 @@ Temperatuur die een stof nodig heeft om icm zuurstof makkelijk te ontbranden
 - Plaats geen obstakels voor nooduitgangen of brandblussers
 
 ### Voorbeelden
-**Benzine** is een vluchtige brandstof met een vlampunt van ongeveer 20°C. Bij 1% benzine in de lucht onstaat er reeds een explosief mengsel .
+**Benzine** is een vluchtige brandstof met een vlampunt van ongeveer 0°C. Bij 1% benzine in de lucht onstaat er reeds een explosief mengsel .
+*Tip:* niet in benzinetank boren: https://www.reddit.com/r/Whatcouldgowrong/comments/xo2dbl/wcgw_drilling_into_a_gas_tank/
 
 **Diesel** heeft een vlampunt van 55°C. Pas bij 25% verdampte diesel al een explosief mensel onstaan.
 
