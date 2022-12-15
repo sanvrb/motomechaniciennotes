@@ -47,4 +47,16 @@ Wel te kennen:
 	- Stationair fase: vloeistof voor door stationair sproeier
 	- Deellast: vloeistof door naaldsproeier en positie sproeiernaald
 	- Vollast: vloeistof door hoofdsproeier
-- 
+
+- Uitlaatsysteem
+	- Katalysator is voor het verminderen schadelijke uitlaatgassen
+	- Reflectie of resonantiedemper heeft geen onderhoud nodig
+	- Absorptie demper (Buis met wolletjes) geeft minder tegendruk, maar wol moet worden vervangen
+- Koppeling
+	- Meerplaatskoppeling werkt dmv wrijving
+	- Maximaal koppel kan worden bepaald door:
+		- De hoeveelheid platen
+		- De diameter van de platen
+		- De oppervlakte van de platen
+		- De gezamenlijke sterkte van de veren
+	- Schurend geluid bij ontkoppelen? Schuld van koppelingslager!
