@@ -60,3 +60,16 @@ Wel te kennen:
 		- De oppervlakte van de platen
 		- De gezamenlijke sterkte van de veren
 	- Schurend geluid bij ontkoppelen? Schuld van koppelingslager!
+- Remsystemen
+	- Welk materiaal heeft breedste temperatuurbereik? Gesinterde blokken
+	(Maar is in praktijk voor discussie vatbaar)
+	- Dunste punt meten op 1 punt, niet over gans de schijf
+	- Remvloeistof is hygroscopisch, verlaagt kookpunt van de remvloeistof
+	- DOT 3 / 4 / 5.1 zijn compatibel met elkaar
+	- DOT 5 is gemaakt van siliconen en mag niet gemengd worden
+	- ABS systeem reageren vanaf **15%** slip
+
+- Eindaandrijving (Cursus volgt) 
+	- Spelen met tandwielen zorgt voor hogere topsnelheid of meer koppel
+		- Maar ik was moe en verstrooid, en heb niet veel notities meer kunnen nemen
+	- Cardanaandrijving is duurder en zwaarder, maar quasi geen onderhoud
