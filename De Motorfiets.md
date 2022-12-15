@@ -89,3 +89,5 @@ Bij Japanse merken heeft elke motortype vaak aparte, custom, motorblok.
 Bij bmw bv heeft een R1250 GS, R, GT, .. zelfde blok. R1250 slaat op motorblok, rest op opties.
 
 BMW, Harley en Ducati gekend om zelfde motorblokken te hebben.
+
+# 
