@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "14ea0bddcf06c45a",
+    "type": "split",
+    "children": [
+      {
+        "id": "baee379fd31124f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859165da958dba96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veiligheid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb026f10372e9f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f9632d69dc5372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c181511983c418",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4a8c0c2c9c7afbd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "577da90a9fba391a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32ca87193a87233c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e63d5ba5e8c4da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87088de1cc9205d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Veiligheid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "327fbc8557f8d94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Veiligheid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5e9b45e53db65ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccda0648cd1d0f92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Veiligheid.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "859165da958dba96",
+  "lastOpenFiles": [
+    "De Motorfiets.md",
+    "Aankoop.md",
+    "README.md",
+    "Tools.md",
+    "Veiligheid.md",
+    "Pasted image 20220921120029.png"
+  ]
+}
