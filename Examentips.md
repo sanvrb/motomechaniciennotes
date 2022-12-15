@@ -32,4 +32,8 @@ Wel te kennen:
 	- Ideale bedrijfstemperatuur tussen 85 en 95 graden celsius
 		- Vraag weinig vermogen van je motorblok bij koude motor!
 	- 3 koelsystemen: *Luchtkoeling*, *Oliekoeling*, *Vloeistofkoeling*
-	- 
+	- Vloeistofkoeling is enigste met temperatuurregeling/thermostaat
+	- Koelvloeistof bevat 50% antivries en 50% gedemineraliseerd water. Moderne versies bevatten ook anti-corrosiemiddel
+	- Bij vloeistofkoeling zorgt de dop voor drukregeling, niet de centrifugaalpomp (die zorgt alleen voor circulatie)
+
+- 
