@@ -36,4 +36,15 @@ Wel te kennen:
 	- Koelvloeistof bevat 50% antivries en 50% gedemineraliseerd water. Moderne versies bevatten ook anti-corrosiemiddel
 	- Bij vloeistofkoeling zorgt de dop voor drukregeling, niet de centrifugaalpomp (die zorgt alleen voor circulatie)
 
+- Inlaattraject (waarschijnlijk niet te kennen)
+- Carburatoren
+	- Grafiek cursus niet te kennen
+	- Rijker mengsel nodig tijden:
+		- Opwarmfase
+		- Stationair fase (nullast)
+		- Maximumm vermogen (vollast)
+	- Kijk zeker filmpje [CV Carburetor - YouTube](https://www.youtube.com/watch?v=wyspAHrMbb8)![[CV Carburetor [wyspAHrMbb8].webm]]
+	- Stationair fase: vloeistof voor door stationair sproeier
+	- Deellast: vloeistof door naaldsproeier en positie sproeiernaald
+	- Vollast: vloeistof door hoofdsproeier
 - 
