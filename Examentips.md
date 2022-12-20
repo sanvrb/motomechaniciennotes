@@ -73,3 +73,5 @@ Wel te kennen:
 	- Spelen met tandwielen zorgt voor hogere topsnelheid of meer koppel
 		- Maar ik was moe en verstrooid, en heb niet veel notities meer kunnen nemen
 	- Cardanaandrijving is duurder en zwaarder, maar quasi geen onderhoud
+	- Kettingen slijten niet gelijk overal. Ketting aanspannen vanuit meest gespannen punt
+	- Een te strakke ketting is meer miserie dan een te slappe ketting
