@@ -84,7 +84,7 @@ Wel te kennen:
 - Velgbed voor tube en tubeless band is anderl
 - Binnenband verboden bij tubeless band. Binnenkant tubeless is ruw en kan binnenband schaden
 - Spaak niet te hard aanspannen, +/- 5mm
-- Lichtere wielen hebben beter contact met de weg door lager afgeveerd gewicht
+- Lichtere wielen hebben beter contact met de weg door lager onafgeveerd gewicht
 - Lichter wielen hebben lager gyroscopisch effect
 
 ## Lagers en scharnierpunten
@@ -115,6 +115,7 @@ Wel te kennen:
 - Pinch bolts in stappen en gelijkmatig lossen
 
 ## Framebouw
+- framebouw is moeilijk; niet zelf aan beginnen
 - Moet stijf zijn bij acceleratie
 - Meer flexen naarmate de hellingsgroep groter wordt
 
@@ -131,3 +132,26 @@ Wel te kennen:
 - en nog veel meer, maar Bram gaat er te snel door
 
 ## Geometrie
+Belangrijkste afmetingen:
+- wielbasis
+	- langere wielbasis = stabieler
+	- kortere wielbasis = wendbaarder
+- naloop (moet altijd positief blijven)
+	- Grotere naloop = stabiel
+	- Korte naloop = wendbaarder
+	- Naloop mag nooit negatief worden
+- Vorksprong (Hoe hard je stuur kan draaien)
+	- Vrije beweging van het balhoofd en bepaalt ook de draaicirkel
+	- Grotere vorksprong bepaalt ook naloop (dieper insturen; kleinere naloop)
+
+- Veerweg
+	- Positieve veerweg: Mate dat nog kan inveren
+	- Negatieve veerweg: mate dat nog kan uitveren
+	- Ideaal: 1/3 negatief + 2/3 positief
+
+- Afgeveerde massa = alles wat op de veren rust
+
+- Kettingeffect is het voorkomen dat bij het acceleren de achterkant te veel inzakt
+
+Demping = snelheid van beweging
+Vering = afstand van beweging
