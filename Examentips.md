@@ -87,3 +87,47 @@ Wel te kennen:
 - Lichtere wielen hebben beter contact met de weg door lager afgeveerd gewicht
 - Lichter wielen hebben lager gyroscopisch effect
 
+## Lagers en scharnierpunten
+- Er mag geen speling aanwezig wijn op balhoofdlagers
+- Na verloop zit er knik in balhoofd, te voelen bij rechtdoor rijden
+- Indien balhoofdlagers te hard gespannen zijn, zal er constant bijgestuurd moeten worden
+## Lagers vervangen
+### Een lager in boring
+	- enkel persen of slaan op de buitenring
+### Een lager over een as
+	- Enkel persen of slaan op de binnenring
+- Lagers met grotere speling, typenr C3 of C4 (bv 6204 C3)
+- Studietip: Hier kan je luisteren naar BMW M1000rr https://www.bmw-motorrad.be/nl/models/m/m1000rr.html#/section-samenspel-van-highlights
+- Bij ongeval steeds vorkbenen controleren. Niet terugplooien maar vervangen
+
+
+## Banden
+- Sommige fabrikanten geven enkel de bandenspanning op bij maximale belading
+- Silica zorgt voor betere grip bij koude en natte omstandigheden
+- minstens 1.6mm
+- Herstellen alleen op het loopvlak
+- Noodreparatie (van buiten naar binnen geplugd) zo snel mogelijk vervangen
+- Vaak gekleurde stip op band als gewichtsindicatie
+	- Stip is lichtste punt
+	- Moet recht tegenover ventiel staan
+- Plaklood best aaan beide zijden van een velg
+- Motorvelg kan statisch worden gebalanceerd
+- Pinch bolts in stappen en gelijkmatig lossen
+
+## Framebouw
+- Moet stijf zijn bij acceleratie
+- Meer flexen naarmate de hellingsgroep groter wordt
+
+## Frametypes
+- Enkelvoudig wiegframe
+	- Goedkoopste en eenvoudigste
+- Dubbelvoudig wiegframe
+	- Endure/cross
+- Buizenframe
+	- Ookwel vakwerkframe genoemd
+- Monocoque frame
+	- Veel hangt vast aan de motor
+	- Duur
+- en nog veel meer, maar Bram gaat er te snel door
+
+## Geometrie
