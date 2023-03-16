@@ -75,3 +75,15 @@ Wel te kennen:
 	- Cardanaandrijving is duurder en zwaarder, maar quasi geen onderhoud
 	- Kettingen slijten niet gelijk overal. Ketting aanspannen vanuit meest gespannen punt
 	- Een te strakke ketting is meer miserie dan een te slappe ketting
+
+
+
+# Maart 2023
+## Wielen
+- Spaakwiel is schokbestendiger dan gietwiel
+- Velgbed voor tube en tubeless band is anderl
+- Binnenband verboden bij tubeless band. Binnenkant tubeless is ruw en kan binnenband schaden
+- Spaak niet te hard aanspannen, +/- 5mm
+- Lichtere wielen hebben beter contact met de weg door lager afgeveerd gewicht
+- Lichter wielen hebben lager gyroscopisch effect
+
