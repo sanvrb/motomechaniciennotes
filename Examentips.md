@@ -150,8 +150,6 @@ Belangrijkste afmetingen:
 	- Ideaal: 1/3 negatief + 2/3 positief
 
 - Afgeveerde massa = alles wat op de veren rust
-
 - Kettingeffect is het voorkomen dat bij het acceleren de achterkant te veel inzakt
-
-Demping = snelheid van beweging
-Vering = afstand van beweging
+- Demping = snelheid van beweging
+- Vering = afstand van beweging
